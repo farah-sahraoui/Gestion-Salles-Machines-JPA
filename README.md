@@ -30,14 +30,6 @@ Tests unitaires : Validation des services avec JUnit
 
 Architecture en couches : DAO, Service, Util
 
-## Configuration de la base de données:
-
-Nom de la base : base
-
-Utilisateur : root
-
-Mot de passe : (vide)
-
 ## Résultats d'exécution:
 
 ### Capture 1 - Affichage des salles et machines:
